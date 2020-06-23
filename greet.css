@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+}
+
+@media(min-width: 800px){
+    .Histo{
+        display: flex;
+    }
+}
+.center{
+    margin: auto;
+    width: 50%;
+}
